@@ -6,8 +6,6 @@ tags:
 draft: false
 date:
 ---
-# Clinical Resources
-
 [[Acne]]
 [[Actinic Keratoses]]
 [[Eating Disorders|Anorexia]]
