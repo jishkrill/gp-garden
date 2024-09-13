@@ -1,5 +1,5 @@
 ---
-title: Clinical Resources
+title: 
 description: 
 permalink: 
 tags: 

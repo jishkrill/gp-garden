@@ -1,5 +1,5 @@
 ---
-title: Educational Resources
+title: 
 description: 
 permalink: 
 tags: 
