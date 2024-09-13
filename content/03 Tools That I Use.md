@@ -1,5 +1,5 @@
 ---
-title: 03 Tools That I Use
+title: Tools That I Use
 description: 
 permalink: 
 tags: 
