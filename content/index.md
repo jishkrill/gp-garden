@@ -8,11 +8,11 @@ date:
 ---
 # Links to main pages
 
-[[01 Clinical Resources|Clinical Resources]]
+[[Clinical Resources|Clinical Resources]]
 
-[[02 Educational Resources|Educational Resources]]
+[[Educational Resources|Educational Resources]]
 
-[[03 Tools That I Use|Tools That I Use]]
+[[Tools That I Use|Tools That I Use]]
 
 
 
