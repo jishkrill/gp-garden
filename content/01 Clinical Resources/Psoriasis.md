@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#dermatology 
-
-
 ## Quick Reference
 [PCDS treatment pathway](https://www.pcds.org.uk/files/general/Psoriasis-Pathway-2022-Update-web.pdf), visual summary easy to follow, differs slightly to NICE Guidance - good guidance on when to use coal tar and salicylic acid to reduce scale
 

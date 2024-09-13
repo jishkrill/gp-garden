@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 # Quick Reference 
 
 Assessing fitness to drive whilst awaiting assessment is a tricky area,  I find this [2018 BTS position statement](https://sleep-apnoea-trust.org/wp-content/uploads/2020/08/BTS-Position-Statement-Driving-and-Obstructive-Sleep-Apnoea-OSA-2018.pdf) pragmatic. I'd recommend reading the whole thing but the part I reference regularly is the box 1/2 way down the first page titled "When is sleepiness excessive and likely to adversely affect driving?"

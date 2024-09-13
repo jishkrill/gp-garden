@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#psychiatry
-
-
 ## Quick Reference
 SCOFF questionnaire for screening for eating disorders a score of ≥2 = Sensitivity 100% Specificity 87.5%. https://www.bmj.com/content/319/7223/1467
 

@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#sexualhealth #womenshealth 
-
-
 ## Quick Reference 
 [UKMEC 2016 (Medical Eligibility Criteria)](https://www.fsrh.org/documents/ukmec-2016/)
 

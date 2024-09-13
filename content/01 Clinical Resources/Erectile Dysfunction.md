@@ -7,10 +7,6 @@ draft: false
 date:
 ---
 
-
-#sexualhealth 
-
-
 - Important takeaway is that erectile dysfunction is an independent risk factor for cardiovascular disease.  
 - It can be quite tricky as it is a consultation where there is often an agenda mismatch from the start. 
 - Remember new evidence and guidance to do a testosterone test in all men (fasting between 9-11am) as PED5i drugs may not work in testosterone deficiency

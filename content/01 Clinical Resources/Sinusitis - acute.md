@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 ## Quick Reference 
 [Link to visual summary of NICE NG79](https://www.nice.org.uk/guidance/ng79/resources/visual-summary-pdf-4656316717)
 

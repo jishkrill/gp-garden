@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
-
 More to come page under construction
 ## Quick reference
 

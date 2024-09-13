@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
-
 ## Quick Reference 
 [Visual summary of Guidance on Gynaecomastia from Association of Breast Surgery](https://associationofbreastsurgery.org.uk/media/334381/abs-summary-statement-gynaecomastia-pdt-pictogram.pdf), endorsed by RCGP
 

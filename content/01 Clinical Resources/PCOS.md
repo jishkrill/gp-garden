@@ -1,14 +1,11 @@
 ---
-title:
+title: 
 description: 
 permalink: 
 tags: 
-draft: false
+draft: true
 date:
 ---
-
-
-
 
 
 More to come page under construction

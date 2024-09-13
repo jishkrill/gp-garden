@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#womenshealth
-
-
 ## Quick Reference 
 [Management of unscheduled bleeding on hormone replacement therapy (HRT)](https://thebms.org.uk/wp-content/uploads/2024/07/01-BMS-GUIDELINE-Management-of-unscheduled-bleeding-HRT-JULY2024-A.pdf) - BMS Guideline July 2024
 Page 6 - useful flowchart of how to manage including minor and major risk factors

@@ -1,13 +1,11 @@
 ---
-title:
+title: 
 description: 
 permalink: 
 tags: 
-draft: false
+draft: true
 date:
 ---
-
-
 
 Add calculator
 Add commentary about DEN

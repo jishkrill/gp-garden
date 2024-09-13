@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 I find the What0-18 clinical pathways very useful but for some reason their SEO seems resistant to listing them in google searches so I've made my own list
 
 As usual check local pathways

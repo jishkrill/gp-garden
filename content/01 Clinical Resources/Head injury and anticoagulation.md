@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 # Quick Reference
 
 Who to send to the hospital 

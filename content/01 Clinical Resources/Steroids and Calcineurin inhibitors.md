@@ -1,14 +1,11 @@
 ---
-title:
+title: 
 description: 
 permalink: 
 tags: 
-draft: false
+draft: true
 date:
 ---
-
-
-
 Some tips picked up from BGPERT teaching 
 
 ## Steroids

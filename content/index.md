@@ -1,5 +1,5 @@
 ---
-title:
+title: GP Garden Homepage
 description: 
 permalink: 
 tags: 
@@ -10,11 +10,11 @@ date:
 
 # Links to main pages
 
-[[01 Clinical Resources Top|Clinical Resources]]
+[[01 Clinical Resources|Clinical Resources]]
 
-[[02 Educational Resources Top|Educational Resources]]
+[[02 Educational Resources|Educational Resources]]
 
-[[03 Tools That I Use Top|Tools That I Use]]
+[[03 Tools That I Use|Tools That I Use]]
 
 
 

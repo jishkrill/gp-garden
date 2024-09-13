@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#dermatology 
-
-
 ## Quick Reference
 I find the Acne Pathway from the PCDS the easiest to use for quick reference in a consultation.
 https://www.pcds.org.uk/files/general/Acne-Pathway-2022-Update-web.pdf

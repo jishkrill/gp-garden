@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#dermatology 
-
-
 ## Quick Reference
 
 ## Patient information 

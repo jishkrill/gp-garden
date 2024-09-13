@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#gastroenterology
-
-
 # Quick Reference
 [CKS Page on IBS Diagnosis](https://cks.nice.org.uk/topics/irritable-bowel-syndrome/diagnosis/diagnosis/) includes what initial investigations to do
 [CKS Page on IBS Management ](https://cks.nice.org.uk/topics/irritable-bowel-syndrome/management/management/)

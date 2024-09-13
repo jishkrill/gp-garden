@@ -10,4 +10,4 @@ date:
 
 ## How to achieve an outcome 1 at ARCP
 
-![[+GPGarden/02 Educational Resources/How to Achieve an Outcome 1 at ARCP.pdf]]
+![[How to Achieve an Outcome 1 at ARCP.pdf]]

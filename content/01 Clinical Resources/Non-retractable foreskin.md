@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 ## Quick Reference
 
 **Copied verbatim from page 5 of [RCS commissioning guideline](https://www.rcseng.ac.uk/-/media/Files/RCS/Library-and-publications/Non-journal-publications/Foreskin-Conditions--Commissioning-Guide.pdf) on foreskin conditions**

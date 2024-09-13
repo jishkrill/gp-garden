@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#dermatology 
-
 Also see: [[Emollients]] 
 Also see: [[Steroids and Calcineurin inhibitors]]
 ## Quick Reference 

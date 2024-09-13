@@ -1,15 +1,11 @@
 ---
-title:
+title: Tools That I Use
 description: 
 permalink: 
 tags: 
 draft: false
 date:
 ---
-
-
-
-
 # Tools That I Use
 
 A place for me to bookmark some useful websites and tools

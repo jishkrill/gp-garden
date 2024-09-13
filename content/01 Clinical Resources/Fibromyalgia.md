@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 # Quick Reference
 
 [Royal College of Physicians have produced some excellent resources](https://www.rcp.ac.uk/improving-care/resources/the-diagnosis-of-fibromyalgia-syndrome/)

@@ -1,15 +1,12 @@
 ---
-title:
+title: Clinical Resources
 description: 
 permalink: 
 tags: 
 draft: false
 date:
 ---
-
-
 # Clinical Resources
-
 
 [[Acne]]
 [[Actinic Keratoses]]

@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 ## Quick Reference
 
 Special case uses, based on BGPERT Dermatology teaching. 

@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 ## Quick Reference
 
 NICE risk factors for progression to severe COVID-19 TA878

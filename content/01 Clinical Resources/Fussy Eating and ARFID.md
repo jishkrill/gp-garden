@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 ## Quick Reference
 The Arfid for healthcare booklet is a useful overview
 https://www.arfidawarenessuk.org/resources

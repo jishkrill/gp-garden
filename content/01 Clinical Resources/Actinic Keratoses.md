@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#dermatology 
-
-
 ## Quick reference
 The PCDS has the easiest to follow visual pathway.
 https://www.pcds.org.uk/files/general/AK-Pathway-2022-Update-web-1.pdf

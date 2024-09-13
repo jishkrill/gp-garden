@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 ## Quick Reference 
 My current quick reference sources for palliative care is this locally produced book. 
 [The Palliative Care Handbook - A Good Practice Guide 9th Ed, 2019, Wessex Palliative Care Physicians](https://www.ruh.nhs.uk/for_clinicians/departments_ruh/palliative_care/documents/palliative_care_handbook.pdf)

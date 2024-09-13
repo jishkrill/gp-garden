@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#dermatology
-
-
 ## Quick Reference 
 [Link to British Association of Dermatologists 2021 treatment algorithm.](https://academic.oup.com/view-large/figure/383509203/bjd20892-fig-0001-m.png)
 

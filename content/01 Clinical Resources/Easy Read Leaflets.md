@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 ## Quick Reference
 [Cervical screening easy read guide gov.uk](https://www.gov.uk/government/publications/cervical-screening-easy-read-guide)
 

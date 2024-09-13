@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 ## Quick Reference
 [GP Notebook Podcast show notes have a good summary](https://gpnotebook.com/en-GB/podcasts/dermatology/ep-85-hyperhidrosis)
 [Link to CKS section on management -- good self-care advice.](https://cks.nice.org.uk/topics/hyperhidrosis/management/management/)

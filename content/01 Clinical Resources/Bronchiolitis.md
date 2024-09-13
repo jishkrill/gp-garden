@@ -6,7 +6,6 @@ tags:
 draft: false
 date:
 ---
-
 ## Quick Reference
 Check if you have a local pathway but I find [this pathway from what0-18](https://www.what0-18.nhs.uk/application/files/2216/2920/1452/CS52646_NHS_Bronchiolitis_Pathway_Primary_and_Community_Care_April_21v2_2.pdf) very easy to follow,  I've linked it here as it often takes me about 90 seconds to find it on their website. 
 N.b see also page on [[Useful Paediatric What0-18 Links]]

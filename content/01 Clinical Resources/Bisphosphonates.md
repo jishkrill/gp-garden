@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
-
 ## Quick Reference
 
 [Link to Frax](https://www.fraxplus.org/calculation-tool)

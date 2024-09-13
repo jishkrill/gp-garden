@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 ## Patient information 
 
 

@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#paediatrics
-
-
 ## Quick Reference
 [What0-18 Managing Colic in Infants Pathway](https://www.what0-18.nhs.uk/application/files/6216/7995/1140/CS48256_NHS_Feeding_pathways_Info_Sheet_Oct2018_Managing_colic_in_infants_7.pdf)
 n.b also see page [[Useful Paediatric What0-18 Links]]

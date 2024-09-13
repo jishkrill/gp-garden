@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 ## Quick Reference
 Link to [NICE Frequency of monitoring table](https://www.nice.org.uk/guidance/ng203/chapter/recommendations#frequency-of-monitoring:~:text=Table%202%20Minimum%20number%20of%20monitoring%20checks%20(eGFRcreatinine)%20per%20year%20for%20adults%2C%20children%20and%20young%20people%20with%20or%20at%20risk%20of%20chronic%20kidney%20disease)
 See below - copied verbatim

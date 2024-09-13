@@ -6,11 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-#endocrine #sexualhealth 
-
-
 ## Quick Reference 
 [Useful visual summary from British Society of Sexual Medicine 2023.  Flowchart on page 3](https://bssm.org.uk/wp-content/uploads/2023/08/Trends-Urol-Men-s-Health-2023-Hackett-A-practical-guide-to-the-assessment-and-management-of-testosterone-deficiency-1.pdf)
 [Their 2017 practical guide is easier to read if you're mostly interested in screening, history and examination.](https://bssm.org.uk/wp-content/uploads/2023/02/BSSM-Practical-Guide-High-Res-single-pp-view-final.pdf)

@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 ## Quick Reference
 
 B12 Pathways and reference ranges vary by region and laboratory assay - check locally. 
