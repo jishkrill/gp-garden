@@ -6,9 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
 # What is a digital garden?
 
 I like this definition of a digital garden I found on google!

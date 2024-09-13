@@ -6,8 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
 # Educational Resources
 
 

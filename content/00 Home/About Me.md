@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 Hi I'm Josh,  I'm a GP Trainee working in Bath.
 In my spare time I like being outdoors and taking photos.
 

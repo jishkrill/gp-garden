@@ -6,10 +6,6 @@ tags:
 draft: false
 date:
 ---
-
-
-
-
 This site is my own little [[Digital garden]].  
 It's kind of like a personal wiki, where I'm collecting links to useful resources, pathways, guidelines, and learning that I stumble upon as I'm training in general practice.
 

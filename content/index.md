@@ -6,7 +6,6 @@ tags:
 draft: false
 date:
 ---
- 
 # Welcome
 
 # Links to main pages
