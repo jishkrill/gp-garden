@@ -1,13 +1,11 @@
 ---
-title: GP Garden Homepage
+title: GP Garden
 description: 
 permalink: 
 tags: 
 draft: false
 date:
 ---
-# Welcome
-
 # Links to main pages
 
 [[01 Clinical Resources|Clinical Resources]]
