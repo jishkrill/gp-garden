@@ -10,9 +10,9 @@ date:
 
 ## [[Clinical Resources|Clinical Resources]]
 
-### [[Educational Resources|Educational Resources]]
+## [[Educational Resources|Educational Resources]]
 
-#### [[Tools That I Use|Tools That I Use]]
+## [[Tools That I Use|Tools That I Use]]
 
 
 
