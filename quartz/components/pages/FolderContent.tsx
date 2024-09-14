@@ -18,6 +18,7 @@ interface FolderContentOptions {
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
+  sort: (a, b) => a.slug.localeCompare(b.slug),  // Sorting by slug in A-Z order
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
