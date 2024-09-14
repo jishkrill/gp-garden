@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-		<p>If you find errors, deadlinks, or wish to provide any feedback, please email me at garden@kroll.org.uk</p>
+		<p>If you find errors, deadlinks, or wish to provide any feedback, please email me at <a href="mailto:garden@kroll.org.uk">garden@kroll.org.uk</a></p>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
