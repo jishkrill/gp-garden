@@ -55,6 +55,7 @@ date:
 [[Monofilament Exam for Peripheral Neuropathy]]
 
 [[Non-retractable foreskin]]
+[[Notifiable Diseases]]
 
 [[Obstructive Sleep Apnoea]]
 
